@@ -1,0 +1,35 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #7094B9;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.font10
+{
+	color: #000080;
+	font-weight: normal;
+	font-size: 14px;
+	FONT-FAMILY: "Arabic Transparent", Tahoma, sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.font12
+{
+	color: #000080;
+	font-weight: normal;
+	font-size: 16px;
+	FONT-FAMILY: "Arabic Transparent", Tahoma, sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.font14
+{
+	color: #ffff00;
+	font-weight: normal;
+	font-size: 18px;
+	FONT-FAMILY: "Arabic Transparent", Tahoma, sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
